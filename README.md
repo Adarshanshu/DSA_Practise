@@ -71,6 +71,7 @@ To stay consistent with daily coding practice and strengthen DSA & interview pre
 | Day 01 | ✅ |
 | Day 02 | ✅ |
 | Day 03 | ✅ |
+| Day 04 | ✅ |
 
 ---
 
