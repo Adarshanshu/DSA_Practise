@@ -46,7 +46,7 @@ public class Solution {
             System.out.println("target index is at -> "+result);
         }
         else{
-            System.out.println("your target is not in thhe array ");
+            System.out.println("your target is not in the array ");
         }
         sc.close();
     }
