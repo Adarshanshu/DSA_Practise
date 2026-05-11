@@ -64,16 +64,6 @@ To stay consistent with daily coding practice and strengthen DSA & interview pre
 
 ---
 
-## 📈 Progress Tracker
-
-| Day | Problems Solved |
-|-----|----------------|
-| Day 01 | ✅ |
-| Day 02 | ✅ |
-| Day 03 | ✅ |
-| Day 04 | ✅ |
-
----
 
 ## 🔥 Platforms Practiced
 
