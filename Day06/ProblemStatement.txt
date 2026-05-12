@@ -1,0 +1,1 @@
+majority element in the array whodse frequency is greater then (n/2)
