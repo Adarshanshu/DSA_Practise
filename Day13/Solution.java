@@ -19,6 +19,8 @@ public class Solution {
     return ans;
    }
    // it will take the time complexity of O(nXm)
+   // whare n = landSartTime.length;
+   // and m = waterSartTime.length;
    // it can be optimized by using another aproach 
     public static void main(String args[]){
         int landStartTime[] = {2,8};
