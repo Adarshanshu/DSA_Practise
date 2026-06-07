@@ -5,7 +5,7 @@ public class Solution {
     int ans = Integer.MAX_VALUE;
     //in this question we have to find the earliest Finish Time 
     // to do this we have two option either we will start from land and then we will go to the water 
-    // another option is to staet with the water and then go to land 
+    // another option is to start with the water and then go to land 
     // we will apply brute force aproach to find the best answer 
     for(int i=0;i<landStartTime.length;i++){
         for(int j=0;j<waterStartTime.length;j++){
@@ -18,6 +18,10 @@ public class Solution {
     }
     return ans;
    }
+   // it will take the time complexity of O(nXm)
+   // whare n = landSartTime.length;
+   // and m = waterSartTime.length;
+   // it can be optimized by using another aproach 
     public static void main(String args[]){
         int landStartTime[] = {2,8};
         int landDuration[] = {4,1};
